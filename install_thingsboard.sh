@@ -24,8 +24,8 @@
 ### === 可自訂參數區 === ###
 TB_VERSION="3.8.1"                   # 最新版本 (可改為 3.6.4 或其他)
 TB_DB_NAME="thingsboard"
-TB_DB_USER="tb_baujg"
-TB_DB_PASS="tb_baujg123"
+TB_DB_USER="tb_user"
+TB_DB_PASS="tb_pass"
 TB_HTTP_PORT="8080"
 LOAD_DEMO="false"                     # 是否安裝 demo dashboard (true/false)
 ### ===================== ###
@@ -148,3 +148,4 @@ echo "---------------------------------------------"
 echo "檢查服務狀態:  sudo systemctl status thingsboard"
 echo "查看日誌:      tail -f /var/log/thingsboard/thingsboard.log"
 echo "========== ThingsBoard 安裝完成 =========="
+
