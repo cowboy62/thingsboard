@@ -1,0 +1,4 @@
+CUSTOMER_NAME,CUSTOMER_USER,CUSTOMER_PASS,DEVICE_NAMES
+CustomerA,userA,userApass,"Device1:type1:description|Device2:type12:description|Device3:type13:description"
+CustomerB,userB,userBpass,"Device1:type2:description|Device2:type22:description|Device3:type23:description|Device4:type:description|Device5:type:description"
+CustomerC,userC,userCpass,"Device1:type3:description|Device2:type32:description|Device3:type33:description"
